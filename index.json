@@ -1,10 +1,9 @@
 {
-    "title": "Linux Files Intro",
+    "title": "Indexer Software",
     "description": "Let's learn some basic commands to work with files on a Linux system",
     "details": {
       "intro": {
         "text": "intro.md",
-        "background": "setup.sh"
       },
       "steps": [
         {
